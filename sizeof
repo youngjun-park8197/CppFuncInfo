@@ -3,6 +3,8 @@
 ##################
 
 1. [출처] [C++] sizeof()
+링크 : https://blog.naver.com/clllickme/222194344076
+
 - 사용하고 있는 메모리의 크기(bytes)를 반환
 
 ex) char a[10] = "hello";
