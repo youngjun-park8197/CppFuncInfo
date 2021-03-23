@@ -1,0 +1,17 @@
+##############################################################################
+Stack function
+
+Reference LINK 
+-> https://m.blog.naver.com/PostView.nhn?blogId=kkj6369&logNo=220807809941&proxyReferer=https:%2F%2Fwww.google.com%2F
+-> https://coding-all.tistory.com/3
+
+- #include <stack>  스택 라이브러리 사용
+- stack<type> stack으로 스택 생성
+- stack.push(데이터)로 추가하고자 하는 데이터를 입력
+- stack.size()는 현재 스택에 저장되어있는 데이터의 갯수를 반환
+- stack.top()은 현재 스택 최상위의 데이터를 가져옵니다 (pop이 아님)
+- stack.pop()은 현재 스택 최상위의 데이터를 제거합니다.
+- stack.empty()는 현재 스택이 비었으면 true, 아니면 false를 반환합니다.
+
+##############################################################################
+
