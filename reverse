@@ -1,0 +1,17 @@
+##################
+  Reference LINK
+##################
+
+출처: https://blockdmask.tistory.com/363 [개발자 지망생]
+
+#include <algorithm>
+* std::reverse 
+-> [first, last) : first를 포함한 인덱스 부터 last 바로 전 인덱스까지의 요소들을 거꾸로 뒤집는 함수
+
+* 예제
+string str = "BlockDMask";
+cout << str << endl;            //"BlockDMask";
+
+reverse(str.begin(), str.end());
+cout << str << endl;            //"ksaMDkcolB";
+
